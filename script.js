@@ -1,5 +1,5 @@
-const botao = document.getElementById("botao");
+const botao = document.getElementById(“botao”);
 
-botao.addEventListener("click", function() {
-    alert("Obrigada por visitar meu site! 💖");
+botao.addEventListener(“click”, function() {
+alert(“💖 Obrigada por visitar o Site da Giovanna! 🌸✨”);
 });
